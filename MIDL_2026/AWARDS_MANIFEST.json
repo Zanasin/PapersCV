@@ -1,0 +1,128 @@
+[
+  {
+    "id": "d1",
+    "conference": "MIDL_2026",
+    "title": "Fast and Explicit: Slice-to-Volume Reconstruction via 3D Gaussian Primitives with Analytic Point Spread Function Modeling",
+    "award": "Best Oral Presentation",
+    "domain": "Fetal MRI Reconstruction",
+    "short_title": "Fast and Explicit - 3D Gaussian Slice-to-Volume Reconstruction",
+    "award_source": "https://www.linkedin.com/posts/maik-dannecker-b81baa143_midl2026-medicalimaging-computervision-activity-7483494962639220736-dcwt",
+    "paper_url": "https://proceedings.mlr.press/v315/dannecker26a.html",
+    "pdf_urls": [
+      "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dannecker26a/dannecker26a.pdf"
+    ],
+    "relative_path": "MIDL_2026/Best Oral Presentation - Fetal MRI Reconstruction - Fast and Explicit - 3D Gaussian Slice-to-Volume Reconstruction.pdf",
+    "pages": 19,
+    "status": "downloaded",
+    "downloaded_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dannecker26a/dannecker26a.pdf",
+    "final_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dannecker26a/dannecker26a.pdf",
+    "bytes": 25917091,
+    "sha256": "13c1f1ea0a0be3afb3764037fca41d341fae54172f74b9d27ef7d78d00a6720c",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "d2",
+    "conference": "MIDL_2026",
+    "title": "AdvDINO: Domain-Adversarial Self-Supervised Representation Learning for Spatial Proteomics",
+    "award": "Best Oral Paper Runner-Up",
+    "domain": "Domain-Robust Spatial Proteomics",
+    "short_title": "AdvDINO",
+    "award_source": "https://lotterlab.github.io/research.html",
+    "paper_url": "https://proceedings.mlr.press/v315/su26a.html",
+    "pdf_urls": [
+      "https://raw.githubusercontent.com/mlresearch/v315/main/assets/su26a/su26a.pdf"
+    ],
+    "relative_path": "MIDL_2026/Best Oral Paper Runner-Up - Domain-Robust Spatial Proteomics - AdvDINO.pdf",
+    "pages": 19,
+    "status": "downloaded",
+    "downloaded_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/su26a/su26a.pdf",
+    "final_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/su26a/su26a.pdf",
+    "bytes": 16377497,
+    "sha256": "62ee497a13705fb6bcbb5bb6bb9af7e6ac8538423e8ed4cd8ef30182b0dc1908",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "d3",
+    "conference": "MIDL_2026",
+    "title": "nnLandmark: A Self-Configuring Method for 3D Medical Landmark Detection",
+    "award": "Best Poster",
+    "domain": "3D Anatomical Landmark Detection",
+    "short_title": "nnLandmark",
+    "award_source": "https://www.linkedin.com/posts/alexandra-ertl-07846a184_medicalimaging-deeplearning-landmarkdetection-activity-7485623804187127808-5BC1",
+    "paper_url": "https://proceedings.mlr.press/v315/ertl26a.html",
+    "pdf_urls": [
+      "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ertl26a/ertl26a.pdf"
+    ],
+    "relative_path": "MIDL_2026/Best Poster - 3D Anatomical Landmark Detection - nnLandmark.pdf",
+    "pages": 34,
+    "status": "downloaded",
+    "downloaded_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ertl26a/ertl26a.pdf",
+    "final_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ertl26a/ertl26a.pdf",
+    "bytes": 6672964,
+    "sha256": "74d386b80562b69148a7726f0d99211fd9c10d697f8de15b61450609e6db475c",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "d4",
+    "conference": "MIDL_2026",
+    "title": "Evaluation of 3D Ultrasound Reconstruction and 2D/3D Segmentation for Neonatal Hip Dysplasia Screening",
+    "award": "Best Poster Runner-Up",
+    "domain": "Neonatal Hip Ultrasound Validation",
+    "short_title": "3D Reconstruction and Segmentation for Hip Dysplasia",
+    "award_source": "https://www.linkedin.com/posts/wiebke-heyer-b59707255_midl2026-activity-7486388820863782912-aFop",
+    "paper_url": "https://proceedings.mlr.press/v315/heyer26a.html",
+    "pdf_urls": [
+      "https://raw.githubusercontent.com/mlresearch/v315/main/assets/heyer26a/heyer26a.pdf"
+    ],
+    "relative_path": "MIDL_2026/Best Poster Runner-Up - Neonatal Hip Ultrasound Validation - 3D Reconstruction and Segmentation for Hip Dysplasia.pdf",
+    "pages": 31,
+    "status": "downloaded",
+    "downloaded_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/heyer26a/heyer26a.pdf",
+    "final_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/heyer26a/heyer26a.pdf",
+    "bytes": 20251213,
+    "sha256": "2281d2c293453e19609484d8010d24ba7d8f43dca8df97ff97479b1f9f29695f",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "d5",
+    "conference": "MIDL_2026",
+    "title": "Democratising Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling",
+    "award": "Best Spotlight",
+    "domain": "Computational Pathology and Vision-Language Models",
+    "short_title": "Democratising Pathology Co-Pilots",
+    "award_source": "https://www.computationalpathologygroup.eu/news/2026-sander-sebastiaan-midl/",
+    "paper_url": "https://proceedings.mlr.press/v315/moonemans26a.html",
+    "pdf_urls": [
+      "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moonemans26a/moonemans26a.pdf"
+    ],
+    "relative_path": "MIDL_2026/Best Spotlight - Computational Pathology and Vision-Language Models - Democratising Pathology Co-Pilots.pdf",
+    "pages": 22,
+    "status": "downloaded",
+    "downloaded_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moonemans26a/moonemans26a.pdf",
+    "final_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moonemans26a/moonemans26a.pdf",
+    "bytes": 1243817,
+    "sha256": "b1ccb3cf53ee3e95a5f615ff65e5662f0f3200558f539d6f8e7868b2439b1cf8",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "d6",
+    "conference": "MIDL_2026",
+    "title": "Endo-SemiS: Towards Robust Semi-Supervised Image Segmentation for Endoscopic Video",
+    "award": "Best Spotlight Runner-Up",
+    "domain": "Semi-Supervised Endoscopic Segmentation",
+    "short_title": "Endo-SemiS",
+    "award_source": "https://github.com/MedICL-VU/Endo-SemiS",
+    "paper_url": "https://proceedings.mlr.press/v315/li26e.html",
+    "pdf_urls": [
+      "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26e/li26e.pdf"
+    ],
+    "relative_path": "MIDL_2026/Best Spotlight Runner-Up - Semi-Supervised Endoscopic Segmentation - Endo-SemiS.pdf",
+    "pages": 22,
+    "status": "downloaded",
+    "downloaded_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26e/li26e.pdf",
+    "final_url": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26e/li26e.pdf",
+    "bytes": 1696104,
+    "sha256": "426ea811546476b70b3ed753d5a19de4326dd5e1aeba07d2a723f40d331543fd",
+    "version": "Conference-provided or proceedings PDF."
+  }
+]

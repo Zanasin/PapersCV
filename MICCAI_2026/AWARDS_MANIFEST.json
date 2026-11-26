@@ -1,0 +1,170 @@
+[
+  {
+    "id": "m1",
+    "conference": "MICCAI_2026",
+    "title": "Low-Rank-Modulated Functa: Exploring the Latent Space of Implicit Neural Representations for Interpretable Ultrasound Video Analysis",
+    "award": "Best Paper",
+    "domain": "Interpretable Ultrasound Video Analysis",
+    "short_title": "Low-Rank-Modulated Functa",
+    "award_source": "https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/",
+    "paper_url": "https://papers.miccai.org/miccai-2026/0599-Paper1186.html",
+    "pdf_urls": [
+      "https://papers.miccai.org/miccai-2026/paper/1186_paper.pdf"
+    ],
+    "relative_path": "MICCAI_2026/Best Paper - Interpretable Ultrasound Video Analysis - Low-Rank-Modulated Functa.pdf",
+    "pages": 11,
+    "status": "downloaded",
+    "downloaded_url": "https://papers.miccai.org/miccai-2026/paper/1186_paper.pdf",
+    "final_url": "https://papers.miccai.org/miccai-2026/paper/1186_paper.pdf",
+    "bytes": 5078917,
+    "sha256": "6050137940516834c014454396f2690cff74f82db975675d20274242ac092965",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "m2",
+    "conference": "MICCAI_2026",
+    "title": "L-TGVN: Leveraging Longitudinal Priors for Personalized Rapid MRI",
+    "award": "Best Paper Runner-Up",
+    "domain": "Longitudinal MRI Reconstruction",
+    "short_title": "L-TGVN - Personalized Rapid MRI",
+    "award_source": "https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/",
+    "paper_url": "https://papers.miccai.org/miccai-2026/0602-Paper2497.html",
+    "pdf_urls": [
+      "https://papers.miccai.org/miccai-2026/paper/2497_paper.pdf"
+    ],
+    "relative_path": "MICCAI_2026/Best Paper Runner-Up - Longitudinal MRI Reconstruction - L-TGVN - Personalized Rapid MRI.pdf",
+    "pages": 11,
+    "status": "downloaded",
+    "downloaded_url": "https://papers.miccai.org/miccai-2026/paper/2497_paper.pdf",
+    "final_url": "https://papers.miccai.org/miccai-2026/paper/2497_paper.pdf",
+    "bytes": 7565973,
+    "sha256": "59e9f79aa201c05b05d3034c76fbf6d7022fe3dff0d0a7c99b8bbdd9a2996b11",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "m3",
+    "conference": "MICCAI_2026",
+    "title": "CancerVerse: A Fully Open Longitudinal and Multimodal Dataset for Multicancer Screening",
+    "award": "Best Paper Runner-Up",
+    "domain": "Multimodal Cancer Screening Datasets",
+    "short_title": "CancerVerse",
+    "award_source": "https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/",
+    "paper_url": "https://papers.miccai.org/miccai-2026/0148-Paper0562.html",
+    "pdf_urls": [
+      "https://papers.miccai.org/miccai-2026/paper/0562_paper.pdf"
+    ],
+    "relative_path": "MICCAI_2026/Best Paper Runner-Up - Multimodal Cancer Screening Datasets - CancerVerse.pdf",
+    "pages": 11,
+    "status": "downloaded",
+    "downloaded_url": "https://papers.miccai.org/miccai-2026/paper/0562_paper.pdf",
+    "final_url": "https://papers.miccai.org/miccai-2026/paper/0562_paper.pdf",
+    "bytes": 4985226,
+    "sha256": "984ef1e4d084424fa13dfcd1ac24ee4b7001b68def4c6d1b20f2a6457b4b7878",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "m4",
+    "conference": "MICCAI_2026",
+    "title": "Planning the Perfect Burn: Multi-objective PSO for Multi-needle Thermal Ablation",
+    "award": "Young Scientist Award",
+    "domain": "Thermal Ablation Planning",
+    "short_title": "Planning the Perfect Burn",
+    "award_source": "https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/",
+    "paper_url": "https://papers.miccai.org/miccai-2026/0796-Paper5166.html",
+    "pdf_urls": [
+      "https://papers.miccai.org/miccai-2026/paper/5166_paper.pdf"
+    ],
+    "relative_path": "MICCAI_2026/Young Scientist Award - Thermal Ablation Planning - Planning the Perfect Burn.pdf",
+    "pages": 11,
+    "status": "downloaded",
+    "downloaded_url": "https://papers.miccai.org/miccai-2026/paper/5166_paper.pdf",
+    "final_url": "https://papers.miccai.org/miccai-2026/paper/5166_paper.pdf",
+    "bytes": 3064367,
+    "sha256": "2d864dd1bf329416ff1d9cdbd83d88149fdb33ded0b39264682818adbf24d2fb",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "m5",
+    "conference": "MICCAI_2026",
+    "title": "Exploiting Longitudinal Context in Clinician-Verified Interactive Lesion Tracking",
+    "award": "Young Scientist Award",
+    "domain": "Interactive Longitudinal Lesion Tracking",
+    "short_title": "Clinician-Verified Lesion Tracking",
+    "award_source": "https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/",
+    "paper_url": "https://papers.miccai.org/miccai-2026/0364-Paper3814.html",
+    "pdf_urls": [
+      "https://papers.miccai.org/miccai-2026/paper/3814_paper.pdf"
+    ],
+    "relative_path": "MICCAI_2026/Young Scientist Award - Interactive Longitudinal Lesion Tracking - Clinician-Verified Lesion Tracking.pdf",
+    "pages": 11,
+    "status": "downloaded",
+    "downloaded_url": "https://papers.miccai.org/miccai-2026/paper/3814_paper.pdf",
+    "final_url": "https://papers.miccai.org/miccai-2026/paper/3814_paper.pdf",
+    "bytes": 3448809,
+    "sha256": "48709f74d46cec74afa9f6a8d66c8686e81532c6ffa8ea3cd6248c9e809e6b5a",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "m6",
+    "conference": "MICCAI_2026",
+    "title": "STAMP: Subtype-Aware Spatio-Temporal Atlases for Personalized Prediction of Longitudinal Alzheimer’s Disease Progression",
+    "award": "Young Scientist Award",
+    "domain": "Neuroimaging and Disease Progression",
+    "short_title": "STAMP - Alzheimer Disease Progression",
+    "award_source": "https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/",
+    "paper_url": "https://papers.miccai.org/miccai-2026/0998-Paper3598.html",
+    "pdf_urls": [
+      "https://papers.miccai.org/miccai-2026/paper/3598_paper.pdf"
+    ],
+    "relative_path": "MICCAI_2026/Young Scientist Award - Neuroimaging and Disease Progression - STAMP - Alzheimer Disease Progression.pdf",
+    "pages": 10,
+    "status": "downloaded",
+    "downloaded_url": "https://papers.miccai.org/miccai-2026/paper/3598_paper.pdf",
+    "final_url": "https://papers.miccai.org/miccai-2026/paper/3598_paper.pdf",
+    "bytes": 4115889,
+    "sha256": "b0e67d7548eb0e6883b5e9a65185eaaeb9e3a833933b00d0e2b6133887f4f9f8",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "m7",
+    "conference": "MICCAI_2026",
+    "title": "CardiacPULSE: Frequency-Aware Self-supervised Cardiac Phase Detection in Echocardiography",
+    "award": "Young Scientist Award",
+    "domain": "Self-Supervised Echocardiography",
+    "short_title": "CardiacPULSE - Cardiac Phase Detection",
+    "award_source": "https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/",
+    "paper_url": "https://papers.miccai.org/miccai-2026/0150-Paper1789.html",
+    "pdf_urls": [
+      "https://papers.miccai.org/miccai-2026/paper/1789_paper.pdf"
+    ],
+    "relative_path": "MICCAI_2026/Young Scientist Award - Self-Supervised Echocardiography - CardiacPULSE - Cardiac Phase Detection.pdf",
+    "pages": 11,
+    "status": "downloaded",
+    "downloaded_url": "https://papers.miccai.org/miccai-2026/paper/1789_paper.pdf",
+    "final_url": "https://papers.miccai.org/miccai-2026/paper/1789_paper.pdf",
+    "bytes": 2994690,
+    "sha256": "4818cbbef0ca2ec750eabfdb31fe744f6a38e591be3e41a33ae28cca3b71e858",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "m8",
+    "conference": "MICCAI_2026",
+    "title": "TopoOR: A Unified Topological Scene Representation for the Operating Room",
+    "award": "Young Scientist Award",
+    "domain": "Surgical Scene Understanding",
+    "short_title": "TopoOR - Operating Room Representation",
+    "award_source": "https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/",
+    "paper_url": "https://papers.miccai.org/miccai-2026/1068-Paper2412.html",
+    "pdf_urls": [
+      "https://papers.miccai.org/miccai-2026/paper/2412_paper.pdf"
+    ],
+    "relative_path": "MICCAI_2026/Young Scientist Award - Surgical Scene Understanding - TopoOR - Operating Room Representation.pdf",
+    "pages": 11,
+    "status": "downloaded",
+    "downloaded_url": "https://papers.miccai.org/miccai-2026/paper/2412_paper.pdf",
+    "final_url": "https://papers.miccai.org/miccai-2026/paper/2412_paper.pdf",
+    "bytes": 4964769,
+    "sha256": "a1079a3bfc7138e474fa1b34f3e55c5ae399997576f7eff2cf71517363ad9f33",
+    "version": "Conference-provided or proceedings PDF."
+  }
+]
