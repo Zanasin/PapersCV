@@ -1,0 +1,60 @@
+[
+  {
+    "id": "p1",
+    "conference": "IPMI_2025",
+    "title": "Bayesian Learning with Stochastic Perturbations and Langevin Expectation Maximization for Unsupervised DNN Image Quality Enhancement",
+    "short_title": "Bayesian Learning with Langevin EM",
+    "domain": "Unsupervised Image Enhancement and Bayesian Learning",
+    "award": "Francois Erbsmann Prize - Best Oral",
+    "award_source": "https://ipmi2025.org/awards.html",
+    "paper_url": "https://doi.org/10.1007/978-3-031-96628-6_18",
+    "pdf_urls": [
+      "https://link.springer.com/content/pdf/10.1007/978-3-031-96628-6_18.pdf"
+    ],
+    "relative_path": "IPMI_2025/NOT DOWNLOADED - Francois Erbsmann Prize - Best Oral - Unsupervised Image Enhancement and Bayesian Learning - Bayesian Learning with Langevin EM.md",
+    "status": "unavailable"
+  },
+  {
+    "id": "p2",
+    "conference": "IPMI_2025",
+    "title": "Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography",
+    "short_title": "MaMA - Multi-View Multi-Scale Alignment",
+    "domain": "Mammography and Vision-Language Pretraining",
+    "award": "Best Oral Runner-Up",
+    "award_source": "https://ipmi2025.org/awards.html",
+    "paper_url": "https://doi.org/10.1007/978-3-031-96625-5_17",
+    "pdf_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12456755/pdf/nihms-2110808.pdf",
+      "https://arxiv.org/pdf/2409.18119"
+    ],
+    "relative_path": "IPMI_2025/Best Oral Runner-Up - Mammography and Vision-Language Pretraining - MaMA - Multi-View Multi-Scale Alignment.pdf",
+    "pages": 16,
+    "status": "downloaded",
+    "downloaded_url": "https://arxiv.org/pdf/2409.18119",
+    "final_url": "https://arxiv.org/pdf/2409.18119",
+    "bytes": 990132,
+    "sha256": "0d7c4cf00b6a0b5533f9c6e72ac163d60064d6a5ff2fc68cd616c1e96051775a",
+    "version": "Author preprint from arXiv; may differ from the publisher version."
+  },
+  {
+    "id": "p3",
+    "conference": "IPMI_2025",
+    "title": "Cycle-Consistent Zero-Shot Through-Plane Super-Resolution for Anisotropic Head MRI",
+    "short_title": "Cycle-Consistent Zero-Shot Super-Resolution",
+    "domain": "Brain MRI Super-Resolution",
+    "award": "Best Poster",
+    "award_source": "https://ipmi2025.org/awards.html",
+    "paper_url": "https://doi.org/10.1007/978-3-031-96628-6_17",
+    "pdf_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12805976/pdf/nihms-2135905.pdf"
+    ],
+    "relative_path": "IPMI_2025/Best Poster - Brain MRI Super-Resolution - Cycle-Consistent Zero-Shot Super-Resolution - PMC Reading Copy.pdf",
+    "status": "reading_copy",
+    "html_relative_path": "IPMI_2025/Best Poster - Brain MRI Super-Resolution - Cycle-Consistent Zero-Shot Super-Resolution - PMC Reading Copy.html",
+    "downloaded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12805976/",
+    "version": "Locally formatted full-text PDF from the PMC accepted manuscript; all four figures embedded; not the publisher PDF",
+    "bytes": 6066809,
+    "sha256": "36d1f09c22223accffab60a1c2f89b6bb729e8dfa0cdc510d62846c43206c08c",
+    "pages": 18
+  }
+]

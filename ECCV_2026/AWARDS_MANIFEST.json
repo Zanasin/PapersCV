@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e1",
+    "conference": "ECCV_2026",
+    "title": "Heat Kernel Textures -- the Geodesic Gaussians That Do Not Splat",
+    "short_title": "HKTex - Heat Kernel Textures",
+    "domain": "3D Surface Texture Representation",
+    "award": "Best Paper",
+    "award_source": "https://eccv.ecva.net/virtual/2026/awards_detail",
+    "paper_url": "https://eccv.ecva.net/virtual/2026/poster/3652",
+    "pdf_urls": [
+      "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2392.pdf"
+    ],
+    "relative_path": "ECCV_2026/Best Paper - 3D Graphics and Texture Representation - Heat Kernel Textures - Geodesic Gaussians That Do Not Splat.pdf",
+    "pages": 19,
+    "status": "downloaded",
+    "downloaded_url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2392.pdf",
+    "final_url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2392.pdf",
+    "bytes": 15940954,
+    "sha256": "b0b8810c9374e92941deeaeaec6d4fa80068ff45879dba2e193f700dc9f92e03",
+    "note": "An identical paper appeared in the conference folder during collection; retained that copy and removed only the duplicate created by this download run.",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "e2",
+    "conference": "ECCV_2026",
+    "title": "Poppy: Polarization-Based Plug-and-Play Guidance for Enhancing Surface Normal Estimation",
+    "short_title": "Poppy",
+    "domain": "Polarization and Surface Normal Estimation",
+    "award": "Best Paper Honorable Mention",
+    "award_source": "https://eccv.ecva.net/virtual/2026/awards_detail",
+    "paper_url": "https://eccv.ecva.net/virtual/2026/poster/5532",
+    "pdf_urls": [
+      "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11190.pdf"
+    ],
+    "relative_path": "ECCV_2026/Best Paper Honorable Mention - Polarization Imaging and Surface Normals - Poppy - Polarization Guidance for Surface Normal Estimation.pdf",
+    "pages": 19,
+    "status": "downloaded",
+    "downloaded_url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11190.pdf",
+    "final_url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11190.pdf",
+    "bytes": 52268245,
+    "sha256": "6d0dd5f6a2409e10782efed314ab4efa475686ffbd79bc965d330949b6ba04c7",
+    "note": "An identical paper appeared in the conference folder during collection; retained that copy and removed only the duplicate created by this download run.",
+    "version": "Conference-provided or proceedings PDF."
+  },
+  {
+    "id": "e3",
+    "conference": "ECCV_2026",
+    "title": "LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows",
+    "short_title": "LSRM",
+    "domain": "3D Object Reconstruction",
+    "award": "Best Paper Honorable Mention",
+    "award_source": "https://eccv.ecva.net/virtual/2026/awards_detail",
+    "paper_url": "https://eccv.ecva.net/virtual/2026/poster/4770",
+    "pdf_urls": [
+      "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7394.pdf"
+    ],
+    "relative_path": "ECCV_2026/Best Paper Honorable Mention - 3D Reconstruction and Inverse Rendering - LSRM - Reconstruction via Scaled Context Windows.pdf",
+    "pages": 21,
+    "status": "downloaded",
+    "downloaded_url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7394.pdf",
+    "final_url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7394.pdf",
+    "bytes": 4595063,
+    "sha256": "8e7eb13e32d3c6537e43c2a2b3cc3613146bfef6af8714a24b2d15d9fcb5a0b8",
+    "note": "An identical paper appeared in the conference folder during collection; retained that copy and removed only the duplicate created by this download run.",
+    "version": "Conference-provided or proceedings PDF."
+  }
+]

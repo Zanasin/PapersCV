@@ -1,0 +1,114 @@
+[
+  {
+    "id": "i1",
+    "conference": "ISBI_2026",
+    "title": "Multimodal Oncology Agent for IDH1 Mutation Prediction in Low-Grade Glioma",
+    "short_title": "Multimodal Oncology Agent",
+    "domain": "Multimodal Agents and Glioma Mutation Prediction",
+    "award": "Best Paper",
+    "award_source": "https://biomedicalimaging.org/2026/2026-awards/",
+    "award_certificate": "https://biomedicalimaging.org/2026/wp-content/uploads/sites/117/2026/04/1.png",
+    "paper_url": "https://ieeexplore.ieee.org/document/11515479",
+    "pdf_urls": [
+      "https://wrap.warwick.ac.uk/id/eprint/201168/3/WRAP-Multimodal-oncology-agent-Idh1-mutation-low-grade-glioma-26.pdf",
+      "https://arxiv.org/pdf/2512.05824",
+      "https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11515479"
+    ],
+    "relative_path": "ISBI_2026/Best Paper - Multimodal Agents and Glioma Mutation Prediction - Multimodal Oncology Agent.pdf",
+    "pages": 5,
+    "status": "downloaded",
+    "downloaded_url": "https://wrap.warwick.ac.uk/id/eprint/201168/3/WRAP-Multimodal-oncology-agent-Idh1-mutation-low-grade-glioma-26.pdf",
+    "final_url": "https://wrap.warwick.ac.uk/id/eprint/201168/3/WRAP-Multimodal-oncology-agent-Idh1-mutation-low-grade-glioma-26.pdf",
+    "bytes": 1386410,
+    "sha256": "a23a33908c3ad199ab400094ded22a7b6c714ee1c3c7139e450da2b703a5872b",
+    "version": "Author accepted manuscript from the University of Warwick repository."
+  },
+  {
+    "id": "i2",
+    "conference": "ISBI_2026",
+    "title": "MeGMA: A Multi-Level Graph Matching Framework for Gyral Hinge Alignment",
+    "short_title": "MeGMA - Gyral Hinge Alignment",
+    "domain": "Brain MRI Alignment and Graph Matching",
+    "award": "Best Paper Runner-Up",
+    "award_source": "https://biomedicalimaging.org/2026/2026-awards/",
+    "award_certificate": "https://biomedicalimaging.org/2026/wp-content/uploads/sites/117/2026/04/2.png",
+    "paper_url": "https://ieeexplore.ieee.org/document/11515844",
+    "pdf_urls": [
+      "https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11515844"
+    ],
+    "relative_path": "ISBI_2026/NOT DOWNLOADED - Best Paper Runner-Up - Brain MRI Alignment and Graph Matching - MeGMA - Gyral Hinge Alignment.md",
+    "status": "unavailable"
+  },
+  {
+    "id": "i3",
+    "conference": "ISBI_2026",
+    "title": "Bridging the Density Gap: Diffusion Model for Stepwise Generation of Dense Cell Images from Sparse Data",
+    "short_title": "Bridging the Density Gap",
+    "domain": "Microscopy and Diffusion Data Augmentation",
+    "award": "Best Paper Runner-Up",
+    "award_source": "https://biomedicalimaging.org/2026/2026-awards/",
+    "award_certificate": "https://biomedicalimaging.org/2026/wp-content/uploads/sites/117/2026/04/3.png",
+    "paper_url": "https://ieeexplore.ieee.org/document/11515362",
+    "pdf_urls": [
+      "https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11515362"
+    ],
+    "relative_path": "ISBI_2026/NOT DOWNLOADED - Best Paper Runner-Up - Microscopy and Diffusion Data Augmentation - Bridging the Density Gap.md",
+    "status": "unavailable"
+  },
+  {
+    "id": "i4",
+    "conference": "ISBI_2026",
+    "title": "Structure-Augmented Standard Plane Detection with Temporal Aggregation in Blind-Sweep Fetal Ultrasound",
+    "short_title": "Structure-Augmented Standard Plane Detection",
+    "domain": "Fetal Ultrasound Plane Detection",
+    "award": "Best Poster",
+    "award_source": "https://biomedicalimaging.org/2026/2026-awards/",
+    "award_certificate": "https://biomedicalimaging.org/2026/wp-content/uploads/sites/117/2026/04/4.png",
+    "paper_url": "https://ieeexplore.ieee.org/document/11515627",
+    "pdf_urls": [
+      "https://research-information.bris.ac.uk/files/498402311/BSP_for_ISBI_Copy_1_.pdf",
+      "https://arxiv.org/pdf/2604.20591",
+      "https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11515627"
+    ],
+    "relative_path": "ISBI_2026/Best Poster - Fetal Ultrasound Plane Detection - Structure-Augmented Standard Plane Detection.pdf",
+    "pages": 5,
+    "status": "downloaded",
+    "downloaded_url": "https://arxiv.org/pdf/2604.20591",
+    "final_url": "https://arxiv.org/pdf/2604.20591",
+    "bytes": 2958976,
+    "sha256": "d53694e286be4ac77c3bf94d291a911374f5342f9e9618f54320f73185885e76",
+    "version": "Author preprint from arXiv; may differ from the publisher version."
+  },
+  {
+    "id": "i5",
+    "conference": "ISBI_2026",
+    "title": "Multi-Frequency and Locality-Guided Attention U-Net GAN for Limited-Angle CT Reconstruction",
+    "short_title": "Multi-Frequency Locality-Guided Attention U-Net GAN",
+    "domain": "Limited-Angle CT Reconstruction",
+    "award": "Best Poster Runner-Up",
+    "award_source": "https://biomedicalimaging.org/2026/2026-awards/",
+    "award_certificate": "https://biomedicalimaging.org/2026/wp-content/uploads/sites/117/2026/04/5.png",
+    "paper_url": "https://ieeexplore.ieee.org/document/11515687",
+    "pdf_urls": [
+      "https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11515687"
+    ],
+    "relative_path": "ISBI_2026/NOT DOWNLOADED - Best Poster Runner-Up - Limited-Angle CT Reconstruction - Multi-Frequency Locality-Guided Attention U-Net GAN.md",
+    "status": "unavailable"
+  },
+  {
+    "id": "i6",
+    "conference": "ISBI_2026",
+    "title": "MR-Derived Skeletal Muscle Features as Predictors of Diabetes Risk in the German National Cohort",
+    "short_title": "MR-Derived Skeletal Muscle Features",
+    "domain": "MRI Biomarkers and Diabetes Risk Prediction",
+    "award": "Best Poster Runner-Up",
+    "award_source": "https://biomedicalimaging.org/2026/2026-awards/",
+    "award_certificate": "https://biomedicalimaging.org/2026/wp-content/uploads/sites/117/2026/04/6.png",
+    "paper_url": "https://ieeexplore.ieee.org/document/11515950",
+    "pdf_urls": [
+      "https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11515950"
+    ],
+    "relative_path": "ISBI_2026/NOT DOWNLOADED - Best Poster Runner-Up - MRI Biomarkers and Diabetes Risk Prediction - MR-Derived Skeletal Muscle Features.md",
+    "status": "unavailable"
+  }
+]
